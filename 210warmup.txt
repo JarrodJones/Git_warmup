@@ -1,0 +1,3 @@
+Test
+Use echo followed by > and the name of the file in order to create a text or readme file
+Starting to get the hang of it
